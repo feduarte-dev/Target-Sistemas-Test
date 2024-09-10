@@ -1,10 +1,7 @@
-Aqui está um exemplo de README.md para o repositório **Target-Sistemas-Test**:
-
----
-
 # Target Sistemas Test
 
 Este repositório contém as soluções para o desafio técnico proposto pela empresa Target Sistemas. O projeto abrange várias questões de lógica e programação distribuídas em diferentes arquivos.
+Optei por usar três das linguagens que me sinto mais confortável em trabalhar javascript, python e sql.
 
 ## Estrutura do Repositório
 
