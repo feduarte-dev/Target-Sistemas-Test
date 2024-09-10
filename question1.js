@@ -11,4 +11,5 @@ const sum = () => {
 }
 
 
-console.log(sum())
+console.log(sum()) 
+// Output: 77
